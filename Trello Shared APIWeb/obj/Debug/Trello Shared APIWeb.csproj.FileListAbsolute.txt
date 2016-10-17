@@ -1,0 +1,11 @@
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\PluralSight Files\Building JS Addins\build-office-addins-js-api\5-build-office-addins-js-api-m5-exercise-files\Trello Shared APIWeb\bin\Trello Shared APIWeb.dll.config
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\PluralSight Files\Building JS Addins\build-office-addins-js-api\5-build-office-addins-js-api-m5-exercise-files\Trello Shared APIWeb\bin\Trello Shared APIWeb.dll
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\PluralSight Files\Building JS Addins\build-office-addins-js-api\5-build-office-addins-js-api-m5-exercise-files\Trello Shared APIWeb\bin\Trello Shared APIWeb.pdb
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\PluralSight Files\Building JS Addins\build-office-addins-js-api\5-build-office-addins-js-api-m5-exercise-files\Trello Shared APIWeb\obj\Debug\Trello Shared APIWeb.dll
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\PluralSight Files\Building JS Addins\build-office-addins-js-api\5-build-office-addins-js-api-m5-exercise-files\Trello Shared APIWeb\obj\Debug\Trello Shared APIWeb.pdb
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\TrelloApiPS\Trello Shared APIWeb\bin\Trello Shared APIWeb.dll.config
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\TrelloApiPS\Trello Shared APIWeb\bin\Trello Shared APIWeb.dll
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\TrelloApiPS\Trello Shared APIWeb\bin\Trello Shared APIWeb.pdb
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\TrelloApiPS\Trello Shared APIWeb\obj\Debug\Trello Shared APIWeb.dll
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\TrelloApiPS\Trello Shared APIWeb\obj\Debug\Trello Shared APIWeb.pdb
+C:\Users\GuisselleM\Documents\MyProjects\OfficeAddIns\TrelloApiPS\Trello Shared APIWeb\obj\Debug\Trello Shared APIWeb.csprojResolveAssemblyReference.cache
